@@ -1,0 +1,581 @@
+date,industry,employment
+1/1/2010,Manufacturing,11447
+2/1/2010,Manufacturing,11439
+3/1/2010,Manufacturing,11439
+4/1/2010,Manufacturing,11475
+5/1/2010,Manufacturing,11511
+6/1/2010,Manufacturing,11529
+7/1/2010,Manufacturing,11546
+8/1/2010,Manufacturing,11538
+9/1/2010,Manufacturing,11549
+10/1/2010,Manufacturing,11548
+11/1/2010,Manufacturing,11571
+12/1/2010,Manufacturing,11579
+1/1/2011,Manufacturing,11606
+2/1/2011,Manufacturing,11637
+3/1/2011,Manufacturing,11659
+4/1/2011,Manufacturing,11689
+5/1/2011,Manufacturing,11697
+6/1/2011,Manufacturing,11710
+7/1/2011,Manufacturing,11729
+8/1/2011,Manufacturing,11748
+9/1/2011,Manufacturing,11752
+10/1/2011,Manufacturing,11762
+11/1/2011,Manufacturing,11753
+12/1/2011,Manufacturing,11783
+1/1/2012,Manufacturing,11820
+2/1/2012,Manufacturing,11841
+3/1/2012,Manufacturing,11880
+4/1/2012,Manufacturing,11897
+5/1/2012,Manufacturing,11908
+6/1/2012,Manufacturing,11918
+7/1/2012,Manufacturing,11944
+8/1/2012,Manufacturing,11940
+9/1/2012,Manufacturing,11934
+10/1/2012,Manufacturing,11941
+11/1/2012,Manufacturing,11930
+12/1/2012,Manufacturing,11939
+1/1/2013,Manufacturing,11962
+2/1/2013,Manufacturing,11974
+3/1/2013,Manufacturing,11977
+4/1/2013,Manufacturing,11978
+5/1/2013,Manufacturing,11978
+6/1/2013,Manufacturing,11982
+7/1/2013,Manufacturing,11962
+8/1/2013,Manufacturing,11992
+9/1/2013,Manufacturing,12010
+10/1/2013,Manufacturing,12033
+11/1/2013,Manufacturing,12054
+12/1/2013,Manufacturing,12060
+1/1/2014,Manufacturing,12058
+2/1/2014,Manufacturing,12084
+3/1/2014,Manufacturing,12096
+4/1/2014,Manufacturing,12109
+5/1/2014,Manufacturing,12120
+6/1/2014,Manufacturing,12146
+7/1/2014,Manufacturing,12165
+8/1/2014,Manufacturing,12182
+9/1/2014,Manufacturing,12201
+10/1/2014,Manufacturing,12233
+11/1/2014,Manufacturing,12260
+12/1/2014,Manufacturing,12266
+1/1/2015,Manufacturing,12265
+2/1/2015,Manufacturing,12275
+3/1/2015,Manufacturing,12286
+4/1/2015,Manufacturing,12291
+5/1/2015,Manufacturing,12306
+6/1/2015,Manufacturing,12307
+7/1/2015,Manufacturing,12323
+8/1/2015,Manufacturing,12318
+9/1/2015,Manufacturing,12326
+10/1/2015,Manufacturing,12334
+11/1/2015,Manufacturing,12329
+12/1/2015,Manufacturing,12333
+1/1/2016,Manufacturing,12354
+2/1/2016,Manufacturing,12337
+3/1/2016,Manufacturing,12313
+4/1/2016,Manufacturing,12325
+5/1/2016,Manufacturing,12303
+6/1/2016,Manufacturing,12321
+7/1/2016,Manufacturing,12342
+8/1/2016,Manufacturing,12319
+9/1/2016,Manufacturing,12317
+10/1/2016,Manufacturing,12316
+11/1/2016,Manufacturing,12311
+12/1/2016,Manufacturing,12324
+1/1/2017,Manufacturing,12334
+2/1/2017,Manufacturing,12350
+3/1/2017,Manufacturing,12361
+4/1/2017,Manufacturing,12367
+5/1/2017,Manufacturing,12377
+6/1/2017,Manufacturing,12390
+7/1/2017,Manufacturing,12390
+8/1/2017,Manufacturing,12435
+9/1/2017,Manufacturing,12443
+10/1/2017,Manufacturing,12457
+11/1/2017,Manufacturing,12472
+12/1/2017,Manufacturing,12501
+1/1/2018,Manufacturing,12527
+2/1/2018,Manufacturing,12551
+3/1/2018,Manufacturing,12576
+4/1/2018,Manufacturing,12595
+5/1/2018,Manufacturing,12623
+6/1/2018,Manufacturing,12656
+7/1/2018,Manufacturing,12676
+8/1/2018,Manufacturing,12688
+9/1/2018,Manufacturing,12710
+10/1/2018,Manufacturing,12731
+11/1/2018,Manufacturing,12741
+12/1/2018,Manufacturing,12761
+1/1/2019,Manufacturing,12790
+2/1/2019,Manufacturing,12782
+3/1/2019,Manufacturing,12788
+4/1/2019,Manufacturing,12785
+5/1/2019,Manufacturing,12778
+6/1/2019,Manufacturing,12787
+7/1/2019,Manufacturing,12790
+8/1/2019,Manufacturing,12789
+9/1/2019,Manufacturing,12787
+10/1/2019,Manufacturing,12733
+11/1/2019,Manufacturing,12777
+12/1/2019,Manufacturing,12760
+1/1/2020,Manufacturing,12745
+2/1/2020,Manufacturing,12743
+3/1/2020,Manufacturing,12684
+4/1/2020,Manufacturing,11382
+5/1/2020,Manufacturing,11610
+6/1/2020,Manufacturing,11950
+7/1/2020,Manufacturing,11973
+8/1/2020,Manufacturing,11999
+9/1/2020,Manufacturing,12057
+10/1/2020,Manufacturing,12086
+11/1/2020,Manufacturing,12118
+12/1/2020,Manufacturing,12153
+1/1/2021,Manufacturing,12142
+2/1/2021,Manufacturing,12172
+3/1/2021,Manufacturing,12229
+4/1/2021,Manufacturing,12193
+5/1/2021,Manufacturing,12216
+6/1/2021,Manufacturing,12247
+7/1/2021,Manufacturing,12305
+8/1/2021,Manufacturing,12353
+9/1/2021,Manufacturing,12393
+10/1/2021,Manufacturing,12453
+11/1/2021,Manufacturing,12498
+12/1/2021,Manufacturing,12537
+1/1/2022,Manufacturing,12564
+2/1/2022,Manufacturing,12601
+3/1/2022,Manufacturing,12674
+4/1/2022,Manufacturing,12726
+5/1/2022,Manufacturing,12735
+6/1/2022,Manufacturing,12767
+7/1/2022,Manufacturing,12800
+8/1/2022,Manufacturing,12832
+9/1/2022,Manufacturing,12849
+10/1/2022,Manufacturing,12883
+11/1/2022,Manufacturing,12896
+12/1/2022,Manufacturing,12895
+1/1/2023,Manufacturing,12903
+2/1/2023,Manufacturing,12898
+3/1/2023,Manufacturing,12888
+4/1/2023,Manufacturing,12884
+5/1/2023,Manufacturing,12869
+6/1/2023,Manufacturing,12875
+7/1/2023,Manufacturing,12862
+8/1/2023,Manufacturing,12861
+9/1/2023,Manufacturing,12872
+10/1/2023,Manufacturing,12837
+11/1/2023,Manufacturing,12859
+12/1/2023,Manufacturing,12872
+1/1/2024,Manufacturing,12875
+2/1/2024,Manufacturing,12852
+3/1/2024,Manufacturing,12836
+4/1/2024,Manufacturing,12833
+5/1/2024,Manufacturing,12825
+6/1/2024,Manufacturing,12814
+7/1/2024,Manufacturing,12806
+8/1/2024,Manufacturing,12772
+9/1/2024,Manufacturing,12758
+10/1/2024,Manufacturing,12697
+11/1/2024,Manufacturing,12711
+12/1/2024,Manufacturing,12693
+1/1/2025,Manufacturing,12673
+2/1/2025,Manufacturing,12671
+3/1/2025,Manufacturing,12666
+4/1/2025,Manufacturing,12662
+5/1/2025,Manufacturing,12651
+6/1/2025,Manufacturing,12636
+7/1/2025,Manufacturing,12625
+8/1/2025,Manufacturing,12615
+9/1/2025,Manufacturing,12612
+10/1/2025,Manufacturing,12603
+11/1/2025,Manufacturing,12593
+12/1/2025,Manufacturing,12585
+1/1/2026,Manufacturing,12590
+1/1/2010,Information,2739
+2/1/2010,Information,2737
+3/1/2010,Information,2719
+4/1/2010,Information,2714
+5/1/2010,Information,2708
+6/1/2010,Information,2701
+7/1/2010,Information,2703
+8/1/2010,Information,2701
+9/1/2010,Information,2697
+10/1/2010,Information,2695
+11/1/2010,Information,2689
+12/1/2010,Information,2682
+1/1/2011,Information,2678
+2/1/2011,Information,2672
+3/1/2011,Information,2672
+4/1/2011,Information,2674
+5/1/2011,Information,2679
+6/1/2011,Information,2685
+7/1/2011,Information,2675
+8/1/2011,Information,2632
+9/1/2011,Information,2676
+10/1/2011,Information,2677
+11/1/2011,Information,2676
+12/1/2011,Information,2679
+1/1/2012,Information,2665
+2/1/2012,Information,2676
+3/1/2012,Information,2678
+4/1/2012,Information,2680
+5/1/2012,Information,2685
+6/1/2012,Information,2674
+7/1/2012,Information,2679
+8/1/2012,Information,2675
+9/1/2012,Information,2670
+10/1/2012,Information,2666
+11/1/2012,Information,2674
+12/1/2012,Information,2677
+1/1/2013,Information,2662
+2/1/2013,Information,2698
+3/1/2013,Information,2700
+4/1/2013,Information,2696
+5/1/2013,Information,2710
+6/1/2013,Information,2705
+7/1/2013,Information,2720
+8/1/2013,Information,2691
+9/1/2013,Information,2708
+10/1/2013,Information,2718
+11/1/2013,Information,2722
+12/1/2013,Information,2727
+1/1/2014,Information,2724
+2/1/2014,Information,2718
+3/1/2014,Information,2725
+4/1/2014,Information,2721
+5/1/2014,Information,2717
+6/1/2014,Information,2722
+7/1/2014,Information,2725
+8/1/2014,Information,2733
+9/1/2014,Information,2734
+10/1/2014,Information,2727
+11/1/2014,Information,2735
+12/1/2014,Information,2737
+1/1/2015,Information,2740
+2/1/2015,Information,2741
+3/1/2015,Information,2737
+4/1/2015,Information,2742
+5/1/2015,Information,2747
+6/1/2015,Information,2748
+7/1/2015,Information,2752
+8/1/2015,Information,2751
+9/1/2015,Information,2764
+10/1/2015,Information,2766
+11/1/2015,Information,2751
+12/1/2015,Information,2761
+1/1/2016,Information,2762
+2/1/2016,Information,2775
+3/1/2016,Information,2785
+4/1/2016,Information,2789
+5/1/2016,Information,2751
+6/1/2016,Information,2801
+7/1/2016,Information,2799
+8/1/2016,Information,2803
+9/1/2016,Information,2817
+10/1/2016,Information,2814
+11/1/2016,Information,2812
+12/1/2016,Information,2817
+1/1/2017,Information,2821
+2/1/2017,Information,2815
+3/1/2017,Information,2813
+4/1/2017,Information,2804
+5/1/2017,Information,2801
+6/1/2017,Information,2811
+7/1/2017,Information,2809
+8/1/2017,Information,2813
+9/1/2017,Information,2816
+10/1/2017,Information,2811
+11/1/2017,Information,2815
+12/1/2017,Information,2818
+1/1/2018,Information,2817
+2/1/2018,Information,2819
+3/1/2018,Information,2826
+4/1/2018,Information,2838
+5/1/2018,Information,2841
+6/1/2018,Information,2838
+7/1/2018,Information,2841
+8/1/2018,Information,2840
+9/1/2018,Information,2838
+10/1/2018,Information,2850
+11/1/2018,Information,2850
+12/1/2018,Information,2851
+1/1/2019,Information,2842
+2/1/2019,Information,2843
+3/1/2019,Information,2849
+4/1/2019,Information,2846
+5/1/2019,Information,2858
+6/1/2019,Information,2875
+7/1/2019,Information,2866
+8/1/2019,Information,2865
+9/1/2019,Information,2871
+10/1/2019,Information,2874
+11/1/2019,Information,2885
+12/1/2019,Information,2891
+1/1/2020,Information,2901
+2/1/2020,Information,2910
+3/1/2020,Information,2902
+4/1/2020,Information,2643
+5/1/2020,Information,2609
+6/1/2020,Information,2622
+7/1/2020,Information,2622
+8/1/2020,Information,2640
+9/1/2020,Information,2695
+10/1/2020,Information,2684
+11/1/2020,Information,2696
+12/1/2020,Information,2712
+1/1/2021,Information,2747
+2/1/2021,Information,2764
+3/1/2021,Information,2770
+4/1/2021,Information,2796
+5/1/2021,Information,2816
+6/1/2021,Information,2824
+7/1/2021,Information,2881
+8/1/2021,Information,2903
+9/1/2021,Information,2917
+10/1/2021,Information,2938
+11/1/2021,Information,2957
+12/1/2021,Information,2967
+1/1/2022,Information,2984
+2/1/2022,Information,2990
+3/1/2022,Information,3018
+4/1/2022,Information,3034
+5/1/2022,Information,3057
+6/1/2022,Information,3076
+7/1/2022,Information,3094
+8/1/2022,Information,3097
+9/1/2022,Information,3095
+10/1/2022,Information,3100
+11/1/2022,Information,3115
+12/1/2022,Information,3092
+1/1/2023,Information,3061
+2/1/2023,Information,3048
+3/1/2023,Information,3049
+4/1/2023,Information,3043
+5/1/2023,Information,3034
+6/1/2023,Information,3021
+7/1/2023,Information,3001
+8/1/2023,Information,2981
+9/1/2023,Information,2975
+10/1/2023,Information,2951
+11/1/2023,Information,2962
+12/1/2023,Information,2963
+1/1/2024,Information,2963
+2/1/2024,Information,2958
+3/1/2024,Information,2951
+4/1/2024,Information,2940
+5/1/2024,Information,2930
+6/1/2024,Information,2930
+7/1/2024,Information,2917
+8/1/2024,Information,2909
+9/1/2024,Information,2903
+10/1/2024,Information,2887
+11/1/2024,Information,2885
+12/1/2024,Information,2895
+1/1/2025,Information,2877
+2/1/2025,Information,2876
+3/1/2025,Information,2867
+4/1/2025,Information,2865
+5/1/2025,Information,2864
+6/1/2025,Information,2863
+7/1/2025,Information,2861
+8/1/2025,Information,2860
+9/1/2025,Information,2859
+10/1/2025,Information,2853
+11/1/2025,Information,2848
+12/1/2025,Information,2846
+1/1/2026,Information,2834
+1/1/2010,Health care and social assistance,16714.7
+2/1/2010,Health care and social assistance,16727.8
+3/1/2010,Health care and social assistance,16763.1
+4/1/2010,Health care and social assistance,16773.7
+5/1/2010,Health care and social assistance,16790.5
+6/1/2010,Health care and social assistance,16803.6
+7/1/2010,Health care and social assistance,16816.3
+8/1/2010,Health care and social assistance,16845.3
+9/1/2010,Health care and social assistance,16854.5
+10/1/2010,Health care and social assistance,16889.3
+11/1/2010,Health care and social assistance,16919.2
+12/1/2010,Health care and social assistance,16934.8
+1/1/2011,Health care and social assistance,16935.6
+2/1/2011,Health care and social assistance,16944.4
+3/1/2011,Health care and social assistance,16966.0
+4/1/2011,Health care and social assistance,17002.0
+5/1/2011,Health care and social assistance,17025.0
+6/1/2011,Health care and social assistance,17049.0
+7/1/2011,Health care and social assistance,17085.2
+8/1/2011,Health care and social assistance,17113.8
+9/1/2011,Health care and social assistance,17151.1
+10/1/2011,Health care and social assistance,17174.0
+11/1/2011,Health care and social assistance,17189.9
+12/1/2011,Health care and social assistance,17209.7
+1/1/2012,Health care and social assistance,17263.1
+2/1/2012,Health care and social assistance,17315.9
+3/1/2012,Health care and social assistance,17346.1
+4/1/2012,Health care and social assistance,17362.8
+5/1/2012,Health care and social assistance,17393.3
+6/1/2012,Health care and social assistance,17400.6
+7/1/2012,Health care and social assistance,17428.5
+8/1/2012,Health care and social assistance,17452.6
+9/1/2012,Health care and social assistance,17489.7
+10/1/2012,Health care and social assistance,17532.1
+11/1/2012,Health care and social assistance,17546.2
+12/1/2012,Health care and social assistance,17596.0
+1/1/2013,Health care and social assistance,17616.8
+2/1/2013,Health care and social assistance,17641.6
+3/1/2013,Health care and social assistance,17667.4
+4/1/2013,Health care and social assistance,17711.3
+5/1/2013,Health care and social assistance,17714.0
+6/1/2013,Health care and social assistance,17729.8
+7/1/2013,Health care and social assistance,17710.1
+8/1/2013,Health care and social assistance,17768.6
+9/1/2013,Health care and social assistance,17778.9
+10/1/2013,Health care and social assistance,17788.4
+11/1/2013,Health care and social assistance,17820.7
+12/1/2013,Health care and social assistance,17823.9
+1/1/2014,Health care and social assistance,17840.1
+2/1/2014,Health care and social assistance,17861.0
+3/1/2014,Health care and social assistance,17896.2
+4/1/2014,Health care and social assistance,17915.5
+5/1/2014,Health care and social assistance,17966.5
+6/1/2014,Health care and social assistance,17991.9
+7/1/2014,Health care and social assistance,18028.9
+8/1/2014,Health care and social assistance,18074.4
+9/1/2014,Health care and social assistance,18104.6
+10/1/2014,Health care and social assistance,18137.9
+11/1/2014,Health care and social assistance,18195.3
+12/1/2014,Health care and social assistance,18242.6
+1/1/2015,Health care and social assistance,18305.0
+2/1/2015,Health care and social assistance,18337.4
+3/1/2015,Health care and social assistance,18375.1
+4/1/2015,Health care and social assistance,18451.2
+5/1/2015,Health care and social assistance,18502.5
+6/1/2015,Health care and social assistance,18545.8
+7/1/2015,Health care and social assistance,18580.7
+8/1/2015,Health care and social assistance,18619.6
+9/1/2015,Health care and social assistance,18666.7
+10/1/2015,Health care and social assistance,18721.8
+11/1/2015,Health care and social assistance,18759.4
+12/1/2015,Health care and social assistance,18795.6
+1/1/2016,Health care and social assistance,18838.1
+2/1/2016,Health care and social assistance,18880.2
+3/1/2016,Health care and social assistance,18911.9
+4/1/2016,Health care and social assistance,18951.0
+5/1/2016,Health care and social assistance,18997.7
+6/1/2016,Health care and social assistance,19046.1
+7/1/2016,Health care and social assistance,19100.3
+8/1/2016,Health care and social assistance,19145.2
+9/1/2016,Health care and social assistance,19189.9
+10/1/2016,Health care and social assistance,19219.6
+11/1/2016,Health care and social assistance,19254.3
+12/1/2016,Health care and social assistance,19309.9
+1/1/2017,Health care and social assistance,19330.2
+2/1/2017,Health care and social assistance,19371.2
+3/1/2017,Health care and social assistance,19390.6
+4/1/2017,Health care and social assistance,19443.3
+5/1/2017,Health care and social assistance,19470.5
+6/1/2017,Health care and social assistance,19521.1
+7/1/2017,Health care and social assistance,19569.1
+8/1/2017,Health care and social assistance,19589.0
+9/1/2017,Health care and social assistance,19603.4
+10/1/2017,Health care and social assistance,19623.3
+11/1/2017,Health care and social assistance,19655.8
+12/1/2017,Health care and social assistance,19682.6
+1/1/2018,Health care and social assistance,19731.9
+2/1/2018,Health care and social assistance,19785.2
+3/1/2018,Health care and social assistance,19815.7
+4/1/2018,Health care and social assistance,19839.2
+5/1/2018,Health care and social assistance,19875.1
+6/1/2018,Health care and social assistance,19891.7
+7/1/2018,Health care and social assistance,19916.2
+8/1/2018,Health care and social assistance,19962.3
+9/1/2018,Health care and social assistance,19990.5
+10/1/2018,Health care and social assistance,20039.2
+11/1/2018,Health care and social assistance,20065.1
+12/1/2018,Health care and social assistance,20132.6
+1/1/2019,Health care and social assistance,20164.7
+2/1/2019,Health care and social assistance,20200.7
+3/1/2019,Health care and social assistance,20263.2
+4/1/2019,Health care and social assistance,20320.2
+5/1/2019,Health care and social assistance,20352.5
+6/1/2019,Health care and social assistance,20392.7
+7/1/2019,Health care and social assistance,20428.1
+8/1/2019,Health care and social assistance,20489.9
+9/1/2019,Health care and social assistance,20532.4
+10/1/2019,Health care and social assistance,20578.3
+11/1/2019,Health care and social assistance,20639.6
+12/1/2019,Health care and social assistance,20675.5
+1/1/2020,Health care and social assistance,20724.7
+2/1/2020,Health care and social assistance,20771.0
+3/1/2020,Health care and social assistance,20655.7
+4/1/2020,Health care and social assistance,18485.0
+5/1/2020,Health care and social assistance,18864.3
+6/1/2020,Health care and social assistance,19344.5
+7/1/2020,Health care and social assistance,19525.4
+8/1/2020,Health care and social assistance,19653.2
+9/1/2020,Health care and social assistance,19766.3
+10/1/2020,Health care and social assistance,19853.3
+11/1/2020,Health care and social assistance,19909.2
+12/1/2020,Health care and social assistance,19966.8
+1/1/2021,Health care and social assistance,19903.6
+2/1/2021,Health care and social assistance,19942.8
+3/1/2021,Health care and social assistance,20023.5
+4/1/2021,Health care and social assistance,20066.0
+5/1/2021,Health care and social assistance,20075.6
+6/1/2021,Health care and social assistance,20069.8
+7/1/2021,Health care and social assistance,20077.8
+8/1/2021,Health care and social assistance,20076.5
+9/1/2021,Health care and social assistance,20083.8
+10/1/2021,Health care and social assistance,20119.1
+11/1/2021,Health care and social assistance,20149.5
+12/1/2021,Health care and social assistance,20183.4
+1/1/2022,Health care and social assistance,20160.2
+2/1/2022,Health care and social assistance,20256.3
+3/1/2022,Health care and social assistance,20316.5
+4/1/2022,Health care and social assistance,20380.8
+5/1/2022,Health care and social assistance,20434.5
+6/1/2022,Health care and social assistance,20513.3
+7/1/2022,Health care and social assistance,20616.7
+8/1/2022,Health care and social assistance,20684.8
+9/1/2022,Health care and social assistance,20766.3
+10/1/2022,Health care and social assistance,20855.0
+11/1/2022,Health care and social assistance,20931.1
+12/1/2022,Health care and social assistance,21017.7
+1/1/2023,Health care and social assistance,21103.6
+2/1/2023,Health care and social assistance,21170.1
+3/1/2023,Health care and social assistance,21240.9
+4/1/2023,Health care and social assistance,21309.4
+5/1/2023,Health care and social assistance,21382.4
+6/1/2023,Health care and social assistance,21464.2
+7/1/2023,Health care and social assistance,21576.6
+8/1/2023,Health care and social assistance,21676.7
+9/1/2023,Health care and social assistance,21761.7
+10/1/2023,Health care and social assistance,21839.2
+11/1/2023,Health care and social assistance,21945.4
+12/1/2023,Health care and social assistance,22018.7
+1/1/2024,Health care and social assistance,22095.6
+2/1/2024,Health care and social assistance,22191.2
+3/1/2024,Health care and social assistance,22276.6
+4/1/2024,Health care and social assistance,22359.2
+5/1/2024,Health care and social assistance,22424.6
+6/1/2024,Health care and social assistance,22493.7
+7/1/2024,Health care and social assistance,22541.9
+8/1/2024,Health care and social assistance,22586.7
+9/1/2024,Health care and social assistance,22673.6
+10/1/2024,Health care and social assistance,22754.8
+11/1/2024,Health care and social assistance,22831.6
+12/1/2024,Health care and social assistance,22901.4
+1/1/2025,Health care and social assistance,22960.4
+2/1/2025,Health care and social assistance,23008.3
+3/1/2025,Health care and social assistance,23076.0
+4/1/2025,Health care and social assistance,23152.0
+5/1/2025,Health care and social assistance,23217.0
+6/1/2025,Health care and social assistance,23277.5
+7/1/2025,Health care and social assistance,23360.1
+8/1/2025,Health care and social assistance,23382.9
+9/1/2025,Health care and social assistance,23438.2
+10/1/2025,Health care and social assistance,23485.8
+11/1/2025,Health care and social assistance,23545.7
+12/1/2025,Health care and social assistance,23594.6
+1/1/2026,Health care and social assistance,23718.1
+,,
